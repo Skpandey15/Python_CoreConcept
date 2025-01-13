@@ -1,0 +1,14 @@
+# Define a class
+class Person:
+    # Constructor (initializes an object)
+    def __init__(self, name, age):
+        self.name = name  # Instance attribute
+        self.age = age
+
+    # Method to display information
+    def introduce(self):
+        print(f"My name is {self.name} and I am {self.age} years old.")
+
+# Create an object (instance of the class)
+person = Person("Alice", 30)
+person.introduce()  # Output: My name is Alice and I am 30 years old.

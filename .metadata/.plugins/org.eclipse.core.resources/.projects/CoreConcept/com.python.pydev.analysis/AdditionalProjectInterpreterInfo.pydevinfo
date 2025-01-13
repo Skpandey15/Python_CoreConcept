@@ -1,0 +1,58 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\skp4j\eclipse-workspace\Python\.metadata\.plugins\org.eclipse.core.resources\.projects\CoreConcept\com.python.pydev.analysis\v2_indexcache
+com.basic.InputandOutput|1736699469348976200|C:\Users\skp4j\eclipse-workspace\Python\CoreConcept\com\basic\InputandOutput.py
+com.basic.DataTypes|1736699368547442000|C:\Users\skp4j\eclipse-workspace\Python\CoreConcept\com\basic\DataTypes.py
+com.__init__|1736701500584388900|C:\Users\skp4j\eclipse-workspace\Python\CoreConcept\com|^
+com.masterCorePythonConcepts.ClassesAndObject|1736703036373631700|C:\Users\skp4j\eclipse-workspace\Python\CoreConcept\com\masterCorePythonConcepts\ClassesAndObject.py
+com.basic.BasicOperators|1736699543722426700|C:\Users\skp4j\eclipse-workspace\Python\CoreConcept\com\basic\BasicOperators.py
+com.masterCorePythonConcepts.__init__|1736703014636404500|C:\Users\skp4j\eclipse-workspace\Python\CoreConcept\com\masterCorePythonConcepts|^
+com.basic.Loops|1736700672472482600|C:\Users\skp4j\eclipse-workspace\Python\CoreConcept\com\basic\Loops.py
+com.basic.ConditionalStatements|1736699664301708900|C:\Users\skp4j\eclipse-workspace\Python\CoreConcept\com\basic\ConditionalStatements.py
+com.basic.FindTheLargestNumber|1736700798412286500|C:\Users\skp4j\eclipse-workspace\Python\CoreConcept\com\basic\FindTheLargestNumber.py
+com.basic.__init__|1736701072160502100|C:\Users\skp4j\eclipse-workspace\Python\CoreConcept\com\basic|^
+com.basic.Factorial|1736701089511522600|C:\Users\skp4j\eclipse-workspace\Python\CoreConcept\com\basic\Factorial.py
+-- END DISKCACHE
+-- START DICTIONARY
+18
+5=C:\Users\skp4j\eclipse-workspace\Python\CoreConcept\com\basic\InputandOutput.py
+6=com.basic.InputandOutput
+1=C:\Users\skp4j\eclipse-workspace\Python\CoreConcept\com\basic\FindTheLargestNumber.py
+8=com.basic.DataTypes
+18=Person.__init__
+15=C:\Users\skp4j\eclipse-workspace\Python\CoreConcept\com\masterCorePythonConcepts\ClassesAndObject.py
+7=C:\Users\skp4j\eclipse-workspace\Python\CoreConcept\com\basic\DataTypes.py
+3=C:\Users\skp4j\eclipse-workspace\Python\CoreConcept\com\basic\BasicOperators.py
+11=C:\Users\skp4j\eclipse-workspace\Python\CoreConcept\com\basic\Factorial.py
+2=com.basic.FindTheLargestNumber
+14=com.basic.ConditionalStatements
+9=C:\Users\skp4j\eclipse-workspace\Python\CoreConcept\com\basic\Loops.py
+16=com.masterCorePythonConcepts.ClassesAndObject
+13=C:\Users\skp4j\eclipse-workspace\Python\CoreConcept\com\basic\ConditionalStatements.py
+4=com.basic.BasicOperators
+10=com.basic.Loops
+17=Person
+12=com.basic.Factorial
+-- END DICTIONARY
+-- START TREE 1
+12
+a|2|a!1^1#1*19@a!3^2#1*35@
+age|2|age!5^3#1*51@age!7^3#1*67@
+b|2|b!1^2#1*19@b!3^3#1*35@
+c|1|c!1^3#1*19@
+cou|1|count!9^8#1*83@
+fac|1|factorial!11^2#1*99@
+fru|1|fruits!9^3#1*83@
+hei|1|height!7^4#1*67@
+is_|1|is_student!7^5#1*67@
+nam|2|name!7^2#1*67@name!5^2#1*51@
+num|2|num!11^1#1*99@num!13^2#1*115@
+per|2|Person!15^2#7*129@person1!15^13#1*131@
+-- END TREE
+-- START TREE 2
+4
+__i|1|__init__!17&15^4#9*130@
+age|1|age!18&15^6#9*131@
+int|1|introduce!17&15^9#9*130@
+nam|1|name!18&15^5#9*131@
+-- END TREE
