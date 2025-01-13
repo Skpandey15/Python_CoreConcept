@@ -16,9 +16,14 @@ class Cat(Animal):
     def speak(self):
         print(f"{self.name} says Meow!")
 
+class Lion(Animal):
+    def speak(self):
+        print(f"{self.name} says Roar!")
 # Create objects
 dog = Dog("Buddy")
 cat = Cat("Whiskers")
+lion = Lion("Shera")
 
 dog.speak()  # Output: Buddy says Woof!
 cat.speak()  # Output: Whiskers says Meow!
+lion.speak()
